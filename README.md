@@ -1,70 +1,13 @@
-# Getting Started with Create React App
+The aim of this project is to develop a modern internet banking website using React, a popular JavaScript library for building user interfaces. The website will provide a secure and convenient platform for customers to perform various banking activities such as checking account balances, transferring funds, paying bills, and managing their account information.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The website will consist of several main pages such as the login page, dashboard, account details page, transaction history page, and payment page. The login page will be the first page customers see upon accessing the website, and it will require customers to enter their credentials to authenticate and gain access to their account.
 
-## Available Scripts
+Once customers have successfully logged in, they will be taken to the dashboard page, which will provide a quick overview of their account balances and recent transactions. The account details page will allow customers to view and manage their personal information, such as their name, address, and contact details.
 
-In the project directory, you can run:
+The transaction history page will display all the recent transactions made by the customer, including details such as the date, time, amount, and description. Customers will also be able to filter and search for specific transactions using various criteria.
 
-### `npm start`
+The payment page will enable customers to make payments to other accounts or pay bills directly from their account. Customers will be able to enter the recipient's account details and the amount to be transferred, and they can also set up recurring payments for regular bills.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The website will use modern design techniques and be responsive to various devices and screen sizes, ensuring that customers can access their account from any device. The website will also be secure, using industry-standard encryption protocols to protect customer information and prevent unauthorized access.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Overall, the Internet Banking Website Using React project aims to provide a user-friendly and secure platform for customers to manage their finances conveniently and efficiently.
